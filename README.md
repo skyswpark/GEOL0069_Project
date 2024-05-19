@@ -23,7 +23,8 @@
   <a href="https://github.com/skyswpark/GEOL0069_Project">
   </a>
 
-<h3 align="center">Comparison of Unsupervised and Supervised Classification Methods for Classifying Sea Ice, Lead, and Clouds</h3>
+<h3 align="center">Comparison of Unsupervised and Supervised Classification Methods 
+  for Classifying Sea Ice, Lead, and Clouds</h3>
 
   <p align="center">
     <br />
