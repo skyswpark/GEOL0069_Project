@@ -136,7 +136,7 @@ After classifying ice and lead from the Sentinel-3 altimetry data we can produce
 
 <br />
 <p align="center">
-  <img src=![RGB](https://github.com/skyswpark/GEOL0069_Project/assets/122312438/deead6ec-3fa9-4fe0-9794-8075359768df)>
+  <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/deead6ec-3fa9-4fe0-9794-8075359768df" alt="RGB">
 </p>
 
 <br />
