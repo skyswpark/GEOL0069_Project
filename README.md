@@ -142,7 +142,7 @@ After classifying ice and lead from the Sentinel-3 altimetry data we can produce
 <br />
 <br />
 
-* Standard Deviation of Ice and Lead
+* Supervised Classification #1 CNN (2 Classes vs. 4 Classes)
 
 <br />
 <p align="center">
@@ -153,44 +153,48 @@ After classifying ice and lead from the Sentinel-3 altimetry data we can produce
 <br />
 <br />
 
-* Confusion Matrix for Predicted Echo Classification (GMM) and ESA Official Classification
-<br />
-The accuracy score, precision score, recall score, and F1 score are also printed after the confusion matrix.
-
-<br />
-<br />
-<br />
-<p align="center">
-  <img src="https://github.com/skyswpark/Week_4_Assignment/assets/122312438/83550e0d-04dd-450c-894d-0188bb86e3b9" alt="Confusion Matrix">
-</p>
-
-<br />
-<br />
-<br />
-
-We can do altimetry data classification based on Sentinel-3 altimetry data using GMM clustering for more classes instead of just two classes. In this script, GMM clustering is also done for 5 classes and 10 classes.
-
-<br />
-<br />
-* Average Echo Shape of 5 Classes
+* Supervised Classification #2 RF (2 Classes vs. 4 Classes)
 
 <br />
 <p align="center">
-  <img src="https://github.com/skyswpark/Week_4_Assignment/assets/122312438/51c79bb8-d5c0-4bf3-b711-0eca230e11ca" alt="Average for 5 Classes">
-</p>
+  <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/b3ec5af4-8176-4edf-badb-06ded9da949c" alt="RF_2_Classes">
+  <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/83a457fd-8ecb-4eec-95d2-216d661ec1ab" alt="RF_4_Classes">
+</p>!
 
 <br />
 <br />
 
-* Average Echo Shape of 10 Classes
+* Supervised Classification #3 ViT (2 Classes vs. 4 Classes)
 
 <br />
 <p align="center">
-  <img src="https://github.com/skyswpark/Week_4_Assignment/assets/122312438/e0d72814-1c2e-4a52-b980-8e1f632f4a1b" alt="Average for 10 Classes">
-</p>
+  <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/9ea9051c-74d8-4290-9373-42146a1189cb" alt="ViT_2_Classes">
+  <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/0d574bdb-e6ab-45e5-8742-ab6179110b0e" alt="ViT_4_Classes">
+</p>!
 
 <br />
 <br />
+
+* Unsupervised Classification GMM (2 Classes vs. 4 Classes)
+
+<br />
+<p align="center">
+  <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/cd903cd0-18a7-40f7-9e32-c046928506be" alt="GMM_2_vs_4">
+</p>!
+
+<br />
+<br />
+
+* Unsupervised Classification GMM (4 Classes vs. Classes Combined)
+
+<br />
+<p align="center">
+  <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/af2dc9bb-e625-46f4-96f2-14b3292aae29" alt="GMM_4_vs_Combined">
+</p>!
+
+<br />
+<br />
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
