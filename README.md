@@ -179,7 +179,7 @@ After classifying ice and lead from the Sentinel-3 altimetry data we can produce
 
 <br />
 <p align="center">
-  <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/cd903cd0-18a7-40f7-9e32-c046928506be" alt="GMM_2_vs_4">
+  <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/13d3bcc3-b68b-4211-b1eb-f52ec8eb69e0" alt="GMM_2_vs_4">
 </p>!
 
 <br />
@@ -189,7 +189,7 @@ After classifying ice and lead from the Sentinel-3 altimetry data we can produce
 
 <br />
 <p align="center">
-  <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/af2dc9bb-e625-46f4-96f2-14b3292aae29" alt="GMM_4_vs_Combined">
+  <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/10f26100-17f6-4845-94a2-13037db1352b" alt="GMM_4_vs_Combined">
 </p>!
 
 <br />
