@@ -132,11 +132,11 @@ After classifying ice and lead from the Sentinel-3 altimetry data we can produce
 
 <br />
 
-* Average Echo Shape of Ice and Lead
+* RGB Image Produced from Sentinel-3 Data
 
 <br />
 <p align="center">
-  <img src="https://github.com/skyswpark/Week_4_Assignment/assets/122312438/0cfcf760-4bf6-4907-a59f-44c6028b8d7f" alt="Average">
+  <img src=![RGB](https://github.com/skyswpark/GEOL0069_Project/assets/122312438/deead6ec-3fa9-4fe0-9794-8075359768df)>
 </p>
 
 <br />
