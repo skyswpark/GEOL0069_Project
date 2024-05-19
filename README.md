@@ -146,7 +146,8 @@ After classifying ice and lead from the Sentinel-3 altimetry data we can produce
 
 <br />
 <p align="center">
-  <img src="https://github.com/skyswpark/Week_4_Assignment/assets/122312438/6d96d7f4-58b6-4836-a97a-f68a14d51b53" alt="Standard Deviation">
+  <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/6509177b-341f-40c5-8cca-93bce7bf7b13" alt="CNN_2_Classes">
+  <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/22a38527-404c-409d-81c9-981319c8c00f" alt="CNN_4_Classes">
 </p>
 
 <br />
