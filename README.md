@@ -64,7 +64,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project aims to
+When classifying sea ice and lead in images with cloud cover, AI often misclassifies clouds as lead. Accurately classifying lead is crucial, so it is essential to choose a method that can distinguish between clouds and lead. Therefore, this project aims to compare different classification methods.
+
+IRIS will be used to classify sea ice and lead using supervised classification methods. This will be done twice: first, producing a mask with two classes—sea ice and lead—and second, producing a mask with four classes: sea ice without cloud cover, lead without cloud cover, sea ice with cloud cover, and lead with cloud cover. For the four-class mask, after classification, lead without cloud cover and lead with cloud cover will be combined to identify all leads in the image.
+
+For supervised classification, we will use Computational Neural Networks (CNN), Random Forests (RF), and Visual Transformers (ViT). For unsupervised classification, we will use Gaussian Mixture Models (GMM). By comparing these four classification methods, we aim to identify the most accurate method for classifying sea ice and lead in the presence of cloud cover.
+
+In summary, this project aims to...
 1. Produce two different masks with IRIS for Sea Ice and Lead classification with clouds
 2. Conduct supervised and unsupervised classification for a Sentinel-3 image
 3. Comparison of the different classifications
