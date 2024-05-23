@@ -90,38 +90,9 @@ In summary, this project aims to...
 
 * This project uses Google Colab to run the scripts. When using Google Colab, you will need a Google account for access to Colab and your Google drive.
 * You may run the script on a different platform. Edit the file paths (directories) to properly locate your files.
-* Sentinel-2 optical data, Sentinel-3 OLCI, and altimetry data are used in this project. You will need an account (username and password) to download the data from the Copernicus dataspace.
+* Sentinel-3 data is used in this project. You will need an account (username and password) to download the data from the Copernicus dataspace.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- USAGE -->
-## Understanding the Code: Variables and Functions
-
-
-### Variables
-
-* clusters_gmm: The clusters for each data point determined by the Gaussian Mixture Model (GMM). 'n_components' determines the number of components.
-* flag: The initial classification flags derived from the Sentinal-3 data.
-* waves: Waveform data for the observation points.
-* flag_cleaned: Cleaned version of 'flag', where NaN values are removed from 'flag'.
-* esa_flag_cleaned: Modified version of 'flag_cleaned' to be used for the confusion matrix. 'esa_flag_cleaned' has the true labels while 'clusters_gmm' has the predicted labels.
-* waves_cleaned: Cleaned version of 'waves', where NaN values are removed from 'waves'.
-* data_normalized: Standardized data containing sig_0_np (backscatter coefficient), PP_np (peakiness), and SSD_np (sum of squared differences).
-* cm: Confusion matrix that compares 'esa_flag_cleaned', which has the true labels, and 'clusters_gmm', which has the predicted labels.
-
-
-### Functions
-
-In SWP_Chapter1_Unsupervised_Learning_Methods_Michel.ipynb you will find:
-
-* **peakiness** : Calculates the peakiness of waveforms, which is a measure that compares the maximum amplitude of a waveform to its average amplitude within a specific window around the peak.
-
-* **unpack_gpod** : Handles the unpacking and interpolation of variables from a Generic Product Output Data (GPOD) format.
-
-* **calculate_SSD** : Calculates the Sum of Squared Differences (SSD) for a set of waveforms, which is a measure of the variance or spread of each waveform around its mean.
-s
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
