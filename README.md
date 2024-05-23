@@ -49,9 +49,6 @@
       </ul>
     </li>
     <li>
-      <a href="#understanding-the-code-variables-and-functions">Understanding the Code: Variables and Functions</a>
-    </li>
-    <li>
       <a href="#results">Results</a>
     </li>
     <li><a href="#contributing">Contributing</a></li>
