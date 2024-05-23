@@ -102,7 +102,6 @@ In summary, this project aims to...
 
 * RGB Image Produced from Sentinel-3 Data
 
-<br />
 <p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/deead6ec-3fa9-4fe0-9794-8075359768df" alt="RGB">
 </p>
@@ -112,7 +111,6 @@ In summary, this project aims to...
 
 * Supervised Classification #1 CNN (2 Classes)
 
-<br />
 <p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/6509177b-341f-40c5-8cca-93bce7bf7b13" alt="CNN_2_Classes">
 </p>
@@ -122,7 +120,6 @@ In summary, this project aims to...
 
 * Supervised Classification #1 CNN (4 Classes)
 
-<br />
 <p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/22a38527-404c-409d-81c9-981319c8c00f" alt="CNN_4_Classes">
 </p>
@@ -132,7 +129,6 @@ In summary, this project aims to...
 
 * Supervised Classification #2 RF (2 Classes)
 
-<br />
 <p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/b3ec5af4-8176-4edf-badb-06ded9da949c" alt="RF_2_Classes">
 </p>
@@ -142,7 +138,6 @@ In summary, this project aims to...
 
 * Supervised Classification #2 RF (4 Classes)
 
-<br />
 <p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/83a457fd-8ecb-4eec-95d2-216d661ec1ab" alt="RF_4_Classes">
 </p>
@@ -152,7 +147,6 @@ In summary, this project aims to...
 
 * Supervised Classification #3 ViT (2 Classes)
 
-<br />
 <p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/9ea9051c-74d8-4290-9373-42146a1189cb" alt="ViT_2_Classes">
 </p>
@@ -162,7 +156,6 @@ In summary, this project aims to...
 
 * Supervised Classification #3 ViT (4 Classes)
 
-<br />
 <p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/0d574bdb-e6ab-45e5-8742-ab6179110b0e" alt="ViT_4_Classes">
 </p>
@@ -172,7 +165,6 @@ In summary, this project aims to...
 
 * Unsupervised Classification GMM (2 Classes vs. 4 Classes)
 
-<br />
 <p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/13d3bcc3-b68b-4211-b1eb-f52ec8eb69e0" alt="GMM_2_vs_4">
 </p>
@@ -182,7 +174,6 @@ In summary, this project aims to...
 
 * Unsupervised Classification GMM (4 Classes vs. Classes Combined)
 
-<br />
 <p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/10f26100-17f6-4845-94a2-13037db1352b" alt="GMM_4_vs_Combined">
 </p>
