@@ -98,18 +98,6 @@ In summary, this project aims to...
 
 ## Results
 
-The tasks in this notebook will be mainly two:
-
-* Discrimination of Sea ice and lead based on image classification based on Sentinel-2 optical data.
-* Discrimination of Sea ice and lead based on altimetry data classification based on Sentinel-3 altimetry data.
-
-<br />
-
-Image classification based on Sentinel-2 optical data is done using both K-means clustering and GMM clustering.
-Altimetry data classification based on Sentinel-3 altimetry data is done using GMM clustering.
-
-After classifying ice and lead from the Sentinel-3 altimetry data we can produce an average echo shape and standard deviation echo shape for the two classes, ice and lead. Then a confusion matrix is produced to quantify your echo classification against the ESA official classification.
-
 <br />
 
 * RGB Image Produced from Sentinel-3 Data
@@ -122,33 +110,60 @@ After classifying ice and lead from the Sentinel-3 altimetry data we can produce
 <br />
 <br />
 
-* Supervised Classification #1 CNN (2 Classes vs. 4 Classes)
+* Supervised Classification #1 CNN (2 Classes)
 
 <br />
 <p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/6509177b-341f-40c5-8cca-93bce7bf7b13" alt="CNN_2_Classes">
+</p>
+
+<br />
+<br />
+
+* Supervised Classification #1 CNN (4 Classes)
+
+<br />
+<p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/22a38527-404c-409d-81c9-981319c8c00f" alt="CNN_4_Classes">
 </p>
 
 <br />
 <br />
 
-* Supervised Classification #2 RF (2 Classes vs. 4 Classes)
+* Supervised Classification #2 RF (2 Classes)
 
 <br />
 <p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/b3ec5af4-8176-4edf-badb-06ded9da949c" alt="RF_2_Classes">
+</p>
+
+<br />
+<br />
+
+* Supervised Classification #2 RF (4 Classes)
+
+<br />
+<p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/83a457fd-8ecb-4eec-95d2-216d661ec1ab" alt="RF_4_Classes">
 </p>
 
 <br />
 <br />
 
-* Supervised Classification #3 ViT (2 Classes vs. 4 Classes)
+* Supervised Classification #3 ViT (2 Classes)
 
 <br />
 <p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/9ea9051c-74d8-4290-9373-42146a1189cb" alt="ViT_2_Classes">
+</p>
+
+<br />
+<br />
+
+* Supervised Classification #3 ViT (4 Classes)
+
+<br />
+<p align="center">
   <img src="https://github.com/skyswpark/GEOL0069_Project/assets/122312438/0d574bdb-e6ab-45e5-8742-ab6179110b0e" alt="ViT_4_Classes">
 </p>
 
