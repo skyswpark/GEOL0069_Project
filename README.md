@@ -73,6 +73,7 @@ For supervised classification, we will use Computational Neural Networks (CNN), 
 <br />
 In summary, this project aims to...
 <br />
+
 1. Produce two different masks with IRIS for Sea Ice and Lead classification with clouds
 2. Conduct supervised and unsupervised classification for a Sentinel-3 image
 3. Comparison of the different classifications
