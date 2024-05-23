@@ -70,6 +70,7 @@ IRIS will be used to classify sea ice and lead using supervised classification m
 
 For supervised classification, we will use Computational Neural Networks (CNN), Random Forests (RF), and Visual Transformers (ViT). For unsupervised classification, we will use Gaussian Mixture Models (GMM). By comparing these four classification methods, we aim to identify the most accurate method for classifying sea ice and lead in the presence of cloud cover.
 
+
 In summary, this project aims to...
 1. Produce two different masks with IRIS for Sea Ice and Lead classification with clouds
 2. Conduct supervised and unsupervised classification for a Sentinel-3 image
